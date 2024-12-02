@@ -248,6 +248,9 @@
 
 
 @media (max-width:460px){
+    .hero_sec{
+        height: 100vh;
+    }
     .header{
         padding:1rem;
     }
