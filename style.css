@@ -235,6 +235,9 @@
 }
 
 @media (max-width:900px){
+    .cursor{
+        display: none;
+    }
     .hero_sec {
         height: 68vh;
     }   
