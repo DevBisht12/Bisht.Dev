@@ -320,4 +320,7 @@
     .hero_sec{
         height: 95vh;
     }
+    .footer_left a{
+        padding: 0 7px;
+    }
 }
