@@ -307,9 +307,12 @@
         padding: 1rem;
     }
     .footer_right{
-        padding-bottom: 0.5rem;
+        padding-bottom: 0.5rem !important;
         border-bottom: 1px solid #ffff;
         width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 0.5rem;
     }
     .footer_left{
         padding: 1rem
